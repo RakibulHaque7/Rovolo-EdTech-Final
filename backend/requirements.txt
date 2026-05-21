@@ -7,3 +7,4 @@ django-cors-headers
 Pillow
 geopy
 python-dotenv
+PyMySQL==1.1.1

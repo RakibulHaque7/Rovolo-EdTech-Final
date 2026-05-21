@@ -7,5 +7,5 @@ django-cors-headers
 Pillow
 geopy
 python-dotenv
-mysqlclient>=2.2.1
+PyMySQL==1.1.1
 djangorestframework-simplejwt

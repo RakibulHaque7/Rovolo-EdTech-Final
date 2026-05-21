@@ -8,4 +8,5 @@ Pillow
 geopy
 python-dotenv
 PyMySQL==1.1.1
+mysqlclient==2.2.7
 djangorestframework-simplejwt

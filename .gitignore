@@ -1,0 +1,24 @@
+# Python Virtual Environments
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Django
+db.sqlite3
+media/
+
+# Flutter
+.dart_tool/
+build/
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
+
+# Logs
+*.log

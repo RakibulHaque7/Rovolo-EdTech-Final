@@ -1,0 +1,9 @@
+Django
+gunicorn
+whitenoise
+psycopg2-binary
+djangorestframework
+django-cors-headers
+Pillow
+geopy
+python-dotenv
